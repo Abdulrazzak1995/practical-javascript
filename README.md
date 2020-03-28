@@ -33,3 +33,11 @@
 + todoList.addTodo should add object
 + todoList.change should change the todoText property
 + todoList.toggleCompleted should the completed property
+
+### woorking with loops of logic
+
+## V5 requirements - Loopsof logic
+
++ displayTodos should show .todoText.
++ displayTodos should tell you if todo is empty.
++ displayTodo should show completed .
