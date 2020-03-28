@@ -41,3 +41,8 @@
 + displayTodos should show .todoText.
 + displayTodos should tell you if todo is empty.
 + displayTodo should show completed .
+
+## V6 requirements - Thinking in code
+
++ toggleAll : if everthing's true , make everthing false.
++ toggleAll : Otherwise , make everything true.
