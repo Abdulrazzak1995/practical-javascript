@@ -25,3 +25,11 @@
 + it should have an addTodo method
 + it should have a changeTodo method
 + it should have a deleteTodo method
+
+### This part for the Booleans
+
+## V4 reuirement - Booleans
+
++ todoList.addTodo should add object
++ todoList.change should change the todoText property
++ todoList.toggleCompleted should the completed property
